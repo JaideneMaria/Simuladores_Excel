@@ -1,2 +1,6 @@
 # Simuladores_Excel
-Simuladores feitos no Excel
+Repositório dedicado para simuladores feitos no Excel.
+
+
+### Planilha Finaceiras
+ -- Simulador de Fundo Imobiliário
