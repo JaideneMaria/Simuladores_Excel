@@ -2,5 +2,5 @@
 Repositório dedicado para simuladores feitos no Excel.
 
 
-### Planilha Finaceiras
+### Planilha Financeira
  -- Simulador de Fundo Imobiliário
