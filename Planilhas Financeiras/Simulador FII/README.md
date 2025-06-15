@@ -22,7 +22,7 @@ A planilha oferece as seguintes funcionalidades para auxiliar seu planejamento f
 
 
 * **Análise de Cenários com Variação de Taxa de Rendimento:**
-    * Explore como diferentes taxas de rendimento impactam seu patrimônio final e seu rendimento mensal, permitindo uma análise de sensibilidade e otimismo/pessimismo.
+    * Explore como diferentes taxas de rendimento impactam seu patrimônio final e seu rendimento mensal.
 
     ![Recomendação por Perfil de Investidor](images/Outros_cenarios2.png)
 
