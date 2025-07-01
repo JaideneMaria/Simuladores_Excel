@@ -6,3 +6,7 @@ Repositório dedicado para simuladores feitos no Excel.
  -- Simulador de Fundo Imobiliário
  
  -- Simulador de Declaração de Imposto de Renda
+
+
+### Dashboards
+ -- Ecommerce de produtos eletrônicos e acessórios
